@@ -1,0 +1,31 @@
+{
+  "qq_number": "1574061801",
+  "group_number": "964141205",
+  "updated_at": "2026-04-22T16:19:14.696645",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "永夜星空.bds",
+      "thumb": "永夜星空.bds_py_26_light_thumb.png",
+      "full": "永夜星空.bds_py_26_light.png"
+    },
+    {
+      "name": "Ash安时の线路崩坏",
+      "file": "线路崩坏.bds",
+      "thumb": "线路崩坏.bds_py_26_light_thumb.png",
+      "full": "线路崩坏.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "永夜星空.bdi",
+      "thumb": "永夜星空.bdi_py_26_light_thumb.png",
+      "full": "永夜星空.bdi_py_26_light.png"
+    },
+    {
+      "name": "Ash安时の线路崩坏",
+      "file": "线路崩坏.bdi",
+      "thumb": "线路崩坏.bdi_py_26_light_thumb.png",
+      "full": "线路崩坏.bdi_py_26_light.png"
+    }
+  ]
+}
