@@ -1,19 +1,19 @@
 {
   "qq_number": "1574061801",
   "group_number": "1032615213",
-  "updated_at": "2026-04-22T16:19:14.487790",
+  "updated_at": "2026-04-23T15:52:34.990820",
   "skins": [
-    {
-      "name": "乐妍底包",
-      "file": "魔女的祈愿.bds",
-      "thumb": "魔女的祈愿.bds_py_26_light_thumb.png",
-      "full": "魔女的祈愿.bds_py_26_light.png"
-    },
     {
       "name": "乐妍底包",
       "file": "魔女的祈愿.bdi",
       "thumb": "魔女的祈愿.bdi_py_26_light_thumb.png",
       "full": "魔女的祈愿.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "魔女的祈愿.bds",
+      "thumb": "魔女的祈愿.bds_py_26_light_thumb.png",
+      "full": "魔女的祈愿.bds_py_26_light.png"
     }
   ]
 }

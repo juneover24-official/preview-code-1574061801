@@ -1,86 +1,8 @@
 {
   "qq_number": "1574061801",
   "group_number": "1043831804",
-  "updated_at": "2026-04-22T16:19:15.864929",
+  "updated_at": "2026-04-23T15:52:36.835159",
   "skins": [
-    {
-      "name": "乐妍底包",
-      "file": "喜结良缘.bds",
-      "thumb": "喜结良缘.bds_py_26_light_thumb.png",
-      "full": "喜结良缘.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "诡仙融.bds",
-      "thumb": "诡仙融.bds_py_26_light_thumb.png",
-      "full": "诡仙融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "折枝花妖融.bds",
-      "thumb": "折枝花妖融.bds_py_26_light_thumb.png",
-      "full": "折枝花妖融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "红线融.bds",
-      "thumb": "红线融.bds_py_26_light_thumb.png",
-      "full": "红线融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "白骨画皮.bds",
-      "thumb": "白骨画皮.bds_py_26_light_thumb.png",
-      "full": "白骨画皮.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "诡仙.bds",
-      "thumb": "诡仙.bds_py_26_light_thumb.png",
-      "full": "诡仙.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "白骨画皮融.bds",
-      "thumb": "白骨画皮融.bds_py_26_light_thumb.png",
-      "full": "白骨画皮融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "红线.bds",
-      "thumb": "红线.bds_py_26_light_thumb.png",
-      "full": "红线.bds_py_26_light.png"
-    },
-    {
-      "name": "我的心像被揉皱的黑白旧照片",
-      "file": "我的心像被揉皱的黑白旧照片.bds",
-      "thumb": "我的心像被揉皱的黑白旧照片.bds_py_26_light_thumb.png",
-      "full": "我的心像被揉皱的黑白旧照片.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "蛇影青灯竹融.bds",
-      "thumb": "蛇影青灯竹融.bds_py_26_light_thumb.png",
-      "full": "蛇影青灯竹融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "蛇影青灯竹.bds",
-      "thumb": "蛇影青灯竹.bds_py_26_light_thumb.png",
-      "full": "蛇影青灯竹.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "喜结良缘融.bds",
-      "thumb": "喜结良缘融.bds_py_26_light_thumb.png",
-      "full": "喜结良缘融.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "折枝花妖.bds",
-      "thumb": "折枝花妖.bds_py_26_light_thumb.png",
-      "full": "折枝花妖.bds_py_26_light.png"
-    },
     {
       "name": "乐妍底包",
       "file": "诡仙融.bdi",
@@ -158,6 +80,84 @@
       "file": "蛇影青灯竹.bdi",
       "thumb": "蛇影青灯竹.bdi_py_26_light_thumb.png",
       "full": "蛇影青灯竹.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "喜结良缘.bds",
+      "thumb": "喜结良缘.bds_py_26_light_thumb.png",
+      "full": "喜结良缘.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "诡仙融.bds",
+      "thumb": "诡仙融.bds_py_26_light_thumb.png",
+      "full": "诡仙融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "折枝花妖融.bds",
+      "thumb": "折枝花妖融.bds_py_26_light_thumb.png",
+      "full": "折枝花妖融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "红线融.bds",
+      "thumb": "红线融.bds_py_26_light_thumb.png",
+      "full": "红线融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "白骨画皮.bds",
+      "thumb": "白骨画皮.bds_py_26_light_thumb.png",
+      "full": "白骨画皮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "诡仙.bds",
+      "thumb": "诡仙.bds_py_26_light_thumb.png",
+      "full": "诡仙.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "白骨画皮融.bds",
+      "thumb": "白骨画皮融.bds_py_26_light_thumb.png",
+      "full": "白骨画皮融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "红线.bds",
+      "thumb": "红线.bds_py_26_light_thumb.png",
+      "full": "红线.bds_py_26_light.png"
+    },
+    {
+      "name": "我的心像被揉皱的黑白旧照片",
+      "file": "我的心像被揉皱的黑白旧照片.bds",
+      "thumb": "我的心像被揉皱的黑白旧照片.bds_py_26_light_thumb.png",
+      "full": "我的心像被揉皱的黑白旧照片.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "蛇影青灯竹融.bds",
+      "thumb": "蛇影青灯竹融.bds_py_26_light_thumb.png",
+      "full": "蛇影青灯竹融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "蛇影青灯竹.bds",
+      "thumb": "蛇影青灯竹.bds_py_26_light_thumb.png",
+      "full": "蛇影青灯竹.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "喜结良缘融.bds",
+      "thumb": "喜结良缘融.bds_py_26_light_thumb.png",
+      "full": "喜结良缘融.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "折枝花妖.bds",
+      "thumb": "折枝花妖.bds_py_26_light_thumb.png",
+      "full": "折枝花妖.bds_py_26_light.png"
     }
   ]
 }
