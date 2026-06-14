@@ -1,13 +1,19 @@
 {
   "qq_number": "1574061801",
   "group_number": "676770992",
+  "updated_at": "2026-06-14T04:26:31+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
       "file": "青衣谣脆闷.bds",
       "thumb": "青衣谣脆闷.bds_py_26_light_thumb.png",
       "full": "青衣谣脆闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "西厢记脆.bds",
+      "thumb": "西厢记脆.bds_py_26_light_thumb.png",
+      "full": "西厢记脆.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-12T01:03:45+00:00"
+  ]
 }
