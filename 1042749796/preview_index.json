@@ -1,13 +1,19 @@
 {
   "qq_number": "1574061801",
   "group_number": "1042749796",
-  "updated_at": "2026-07-01T05:06:45+00:00",
+  "updated_at": "2026-07-01T05:07:08+00:00",
   "skins": [
     {
       "name": "底子上的青痕脆",
       "file": "底子上的青痕脆.bdi",
       "thumb": "底子上的青痕脆.bdi_py_26_light_thumb.png",
       "full": "底子上的青痕脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "底子上的青痕闷",
+      "file": "底子上的青痕闷.bdi",
+      "thumb": "底子上的青痕闷.bdi_py_26_light_thumb.png",
+      "full": "底子上的青痕闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
