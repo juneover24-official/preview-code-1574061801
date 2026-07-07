@@ -1,7 +1,7 @@
 {
   "qq_number": "1574061801",
   "group_number": "1040725752",
-  "updated_at": "2026-07-04T03:59:58+00:00",
+  "updated_at": "2026-07-07T04:06:26+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -26,6 +26,12 @@
       "file": "罗马不是一天建成的脆.bds",
       "thumb": "罗马不是一天建成的脆.bds_py_26_light_thumb.png",
       "full": "罗马不是一天建成的脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "亚克兰蒂斯闷.bds",
+      "thumb": "亚克兰蒂斯闷.bds_py_26_light_thumb.png",
+      "full": "亚克兰蒂斯闷.bds_py_26_light_thumb.png"
     }
   ]
 }
