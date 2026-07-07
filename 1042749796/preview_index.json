@@ -1,7 +1,7 @@
 {
   "qq_number": "1574061801",
   "group_number": "1042749796",
-  "updated_at": "2026-07-04T04:01:25+00:00",
+  "updated_at": "2026-07-07T02:41:48+00:00",
   "skins": [
     {
       "name": "底子上的青痕脆",
@@ -26,6 +26,12 @@
       "file": "罗马不是一天建成的闷.bdi",
       "thumb": "罗马不是一天建成的闷.bdi_py_26_light_thumb.png",
       "full": "罗马不是一天建成的闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "亚克兰蒂斯闷.bdi",
+      "thumb": "亚克兰蒂斯闷.bdi_py_26_light_thumb.png",
+      "full": "亚克兰蒂斯闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
